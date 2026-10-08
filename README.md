@@ -3,6 +3,9 @@ A living, explainable biography of your Solana wallet, built for Seeker.
 
 Connect a wallet with Mobile Wallet Adapter and reveal deterministic Genesis DNA. Confirmed activity contributes memories, traits and personal lore. Story explains the creature; Data shows the evidence and scan limits.
 
+## Download and demo
+[Release v0.4.1](https://github.com/SantaNimius/walletkin/releases/tag/v0.4.1) | [Android APK](https://github.com/SantaNimius/walletkin/releases/download/v0.4.1/walletkin-0.4.1.apk) | [75-second demo](https://github.com/SantaNimius/walletkin/releases/download/v0.4.1/walletkin-demo-75s-en.mp4) | [Pitch PDF](https://github.com/SantaNimius/walletkin/releases/download/v0.4.1/walletkin-pitch-0.4.0.pdf)
+
 ## Hackathon build
 Android **0.4.1** (versionCode 19), package `app.chainling`. The user ran this build on Seeker and supplied the screen recording used for the 75-second English-captioned demo. This is a debug test APK, not a dApp Store release. The payment flow has not been tested on mainnet.
 
