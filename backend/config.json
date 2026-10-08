@@ -1,0 +1,49 @@
+{
+  "recipient": "6y8jfXZHHSYYaVLaEDnokW3MEKg1JfzA9S1Ld6zCv4SF",
+  "premiumPriceSkr": "100",
+  "premiumAvailable": true,
+  "minimumStakeSkr": 100,
+  "premiumDays": 30,
+  "items": [
+    {
+      "id": "neon-city",
+      "priceSkr": null,
+      "available": false
+    },
+    {
+      "id": "deep-space",
+      "priceSkr": null,
+      "available": false
+    },
+    {
+      "id": "forest",
+      "priceSkr": null,
+      "available": false
+    },
+    {
+      "id": "azure",
+      "priceSkr": null,
+      "available": false
+    },
+    {
+      "id": "emerald",
+      "priceSkr": null,
+      "available": false
+    },
+    {
+      "id": "crimson",
+      "priceSkr": null,
+      "available": false
+    },
+    {
+      "id": "orbit-motes",
+      "priceSkr": null,
+      "available": false
+    },
+    {
+      "id": "portal",
+      "priceSkr": null,
+      "available": false
+    }
+  ]
+}

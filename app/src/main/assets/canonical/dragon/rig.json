@@ -1,0 +1,129 @@
+{
+  "name": "Riftdrake",
+  "width": 1536,
+  "height": 1100,
+  "eye": [
+    665,
+    377,
+    727,
+    419
+  ],
+  "mode": "breath",
+  "blinkDestination": [
+    150,
+    230,
+    1378.8,
+    1049.2
+  ],
+  "layers": [
+    {
+      "name": "wing_left",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "destination": [
+        0,
+        30,
+        500,
+        690
+      ],
+      "pivot": [
+        470,
+        575
+      ],
+      "motion": 0.7,
+      "phase": 0
+    },
+    {
+      "name": "wing_right",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "destination": [
+        745,
+        65,
+        1531,
+        685
+      ],
+      "pivot": [
+        790,
+        570
+      ],
+      "motion": 0.7,
+      "phase": 0.4
+    },
+    {
+      "name": "tail",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "destination": [
+        940,
+        620,
+        1520,
+        1020
+      ],
+      "pivot": [
+        980,
+        670
+      ],
+      "motion": 0,
+      "phase": 1,
+      "flex": {
+        "root": [
+          980,
+          670
+        ],
+        "hold": 100,
+        "reach": 560,
+        "amplitude": 8
+      }
+    },
+    {
+      "name": "body",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "destination": [
+        150,
+        230,
+        1378.8,
+        1049.2
+      ],
+      "pivot": [
+        768,
+        1020
+      ],
+      "motion": 0,
+      "phase": 0
+    }
+  ]
+}

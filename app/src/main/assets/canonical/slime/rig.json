@@ -1,0 +1,38 @@
+{
+  "name": "Chromagel",
+  "width": 1536,
+  "height": 1024,
+  "eye": [
+    920,
+    365,
+    1250,
+    520
+  ],
+  "mode": "squish",
+  "layers": [
+    {
+      "name": "body",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "destination": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "pivot": [
+        768,
+        880
+      ],
+      "motion": 0
+    }
+  ]
+}

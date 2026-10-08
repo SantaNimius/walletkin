@@ -1,0 +1,3 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:top="19dp" android:bottom="19dp" android:left="19dp" android:right="19dp" android:drawable="@drawable/walletkin_icon" />
+</layer-list>

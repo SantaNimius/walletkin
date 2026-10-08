@@ -1,0 +1,659 @@
+{
+  "astrafox": {
+    "name": "Astrafox",
+    "width": 1254,
+    "height": 1254,
+    "eye": [
+      768,
+      293,
+      953,
+      390
+    ],
+    "layers": [
+      {
+        "name": "tail",
+        "size": [
+          1254,
+          1254
+        ],
+        "source": [
+          178,
+          86,
+          1056,
+          1206
+        ],
+        "destination": [
+          140,
+          450,
+          645,
+          1120
+        ],
+        "pivot": [
+          620,
+          650
+        ],
+        "motion": 0,
+        "flex": {
+          "root": [
+            620,
+            650
+          ],
+          "hold": 110,
+          "reach": 540,
+          "amplitude": 10
+        }
+      },
+      {
+        "name": "body",
+        "size": [
+          1254,
+          1254
+        ],
+        "source": [
+          0,
+          0,
+          1254,
+          1254
+        ],
+        "destination": [
+          0,
+          0,
+          1254,
+          1254
+        ],
+        "pivot": [
+          627,
+          1128.6000000000001
+        ],
+        "motion": 0
+      }
+    ],
+    "mode": "breath",
+    "tapStrength": 2
+  },
+  "golem": {
+    "name": "Jadewarden",
+    "width": 1254,
+    "height": 1254,
+    "eye": [
+      612,
+      164,
+      750,
+      204
+    ],
+    "layers": [
+      {
+        "name": "arm_left",
+        "size": [
+          1254,
+          1254
+        ],
+        "source": [
+          206,
+          18,
+          886,
+          1254
+        ],
+        "destination": [
+          68,
+          204,
+          475,
+          1040
+        ],
+        "pivot": [
+          435,
+          285
+        ],
+        "motion": 0.9
+      },
+      {
+        "name": "arm_right",
+        "size": [
+          1216,
+          1294
+        ],
+        "source": [
+          228,
+          16,
+          1144,
+          1288
+        ],
+        "destination": [
+          750,
+          250,
+          1220,
+          1030
+        ],
+        "pivot": [
+          920,
+          350
+        ],
+        "motion": -0.9
+      },
+      {
+        "name": "body",
+        "size": [
+          1254,
+          1254
+        ],
+        "source": [
+          0,
+          0,
+          1254,
+          1254
+        ],
+        "destination": [
+          0,
+          0,
+          1254,
+          1254
+        ],
+        "pivot": [
+          627,
+          1128.6000000000001
+        ],
+        "motion": 0
+      }
+    ],
+    "mode": "breath",
+    "tapStrength": 5.555555555555555
+  },
+  "wisp": {
+    "name": "Lumenwisp",
+    "width": 1374,
+    "height": 1145,
+    "eye": [
+      899,
+      465,
+      1125,
+      565
+    ],
+    "layers": [
+      {
+        "name": "trail_upper",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          88,
+          40,
+          1488,
+          1000
+        ],
+        "destination": [
+          570,
+          25,
+          1170,
+          465
+        ],
+        "pivot": [
+          1080,
+          390
+        ],
+        "motion": -2.4
+      },
+      {
+        "name": "trail_lower",
+        "size": [
+          1374,
+          1145
+        ],
+        "source": [
+          48,
+          280,
+          1344,
+          1096
+        ],
+        "destination": [
+          76,
+          540,
+          1120,
+          1130
+        ],
+        "pivot": [
+          1030,
+          750
+        ],
+        "motion": 2.4
+      },
+      {
+        "name": "body",
+        "size": [
+          1374,
+          1145
+        ],
+        "source": [
+          0,
+          0,
+          1374,
+          1145
+        ],
+        "destination": [
+          0,
+          0,
+          1374,
+          1145
+        ],
+        "pivot": [
+          687,
+          1030.5
+        ],
+        "motion": 0
+      }
+    ],
+    "mode": "hover",
+    "tapStrength": 2.5
+  },
+  "shark": {
+    "name": "Abyssfin",
+    "width": 1536,
+    "height": 1024,
+    "eye": [
+      260,
+      450,
+      345,
+      505
+    ],
+    "layers": [
+      {
+        "name": "tail",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          344,
+          20,
+          1344,
+          1004
+        ],
+        "destination": [
+          1130,
+          180,
+          1520,
+          770
+        ],
+        "pivot": [
+          1230,
+          545
+        ],
+        "motion": 0,
+        "flex": {
+          "root": [
+            1230,
+            545
+          ],
+          "hold": 115,
+          "reach": 330,
+          "amplitude": 10
+        }
+      },
+      {
+        "name": "fin_far",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          300,
+          100,
+          1236,
+          960
+        ],
+        "destination": [
+          205,
+          520,
+          490,
+          895
+        ],
+        "pivot": [
+          430,
+          650
+        ],
+        "motion": -0.9
+      },
+      {
+        "name": "fin_near",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          450,
+          310,
+          1450,
+          996
+        ],
+        "destination": [
+          570,
+          560,
+          1030,
+          930
+        ],
+        "pivot": [
+          620,
+          620
+        ],
+        "motion": 0.9
+      },
+      {
+        "name": "body",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          0,
+          0,
+          1536,
+          1024
+        ],
+        "destination": [
+          0,
+          25,
+          1382,
+          947
+        ],
+        "pivot": [
+          768,
+          921.6
+        ],
+        "motion": 0,
+        "clip": [
+          0,
+          25,
+          1260,
+          947
+        ]
+      }
+    ],
+    "mode": "hover",
+    "tapStrength": 2
+  },
+  "plant": {
+    "name": "Fernroot",
+    "width": 1312,
+    "height": 1199,
+    "eye": [
+      790,
+      520,
+      989,
+      605
+    ],
+    "layers": [
+      {
+        "name": "branch_left",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          76,
+          44,
+          1476,
+          992
+        ],
+        "destination": [
+          40,
+          350,
+          580,
+          720
+        ],
+        "pivot": [
+          535,
+          670
+        ],
+        "motion": 1.8
+      },
+      {
+        "name": "branch_right",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          12,
+          16,
+          1528,
+          1012
+        ],
+        "destination": [
+          900,
+          500,
+          1290,
+          860
+        ],
+        "pivot": [
+          975,
+          740
+        ],
+        "motion": -1.8
+      },
+      {
+        "name": "body",
+        "size": [
+          1312,
+          1199
+        ],
+        "source": [
+          0,
+          0,
+          1312,
+          1199
+        ],
+        "destination": [
+          0,
+          0,
+          1312,
+          1199
+        ],
+        "pivot": [
+          656,
+          1079.1000000000001
+        ],
+        "motion": 0
+      }
+    ],
+    "mode": "breath",
+    "tapStrength": 2.7777777777777777
+  },
+  "mech": {
+    "name": "Byteforge",
+    "width": 1536,
+    "height": 1024,
+    "eye": [
+      495,
+      278,
+      603,
+      317
+    ],
+    "layers": [
+      {
+        "name": "arm_left",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          44,
+          60,
+          1528,
+          932
+        ],
+        "destination": [
+          80,
+          180,
+          620,
+          530
+        ],
+        "pivot": [
+          490,
+          340
+        ],
+        "motion": 0.9
+      },
+      {
+        "name": "arm_right",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          700,
+          180,
+          1512,
+          952
+        ],
+        "destination": [
+          1060,
+          130,
+          1480,
+          535
+        ],
+        "pivot": [
+          1100,
+          300
+        ],
+        "motion": -0.9
+      },
+      {
+        "name": "body",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          0,
+          0,
+          1536,
+          1024
+        ],
+        "destination": [
+          0,
+          0,
+          1536,
+          1024
+        ],
+        "pivot": [
+          768,
+          921.6
+        ],
+        "motion": 0
+      }
+    ],
+    "mode": "breath",
+    "tapStrength": 5.555555555555555
+  },
+  "bird": {
+    "name": "Foldwing",
+    "width": 1536,
+    "height": 1024,
+    "eye": [
+      999,
+      80,
+      1058,
+      139
+    ],
+    "layers": [
+      {
+        "name": "tail",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          92,
+          104,
+          1468,
+          972
+        ],
+        "destination": [
+          360,
+          610,
+          910,
+          900
+        ],
+        "pivot": [
+          875,
+          670
+        ],
+        "motion": 1.44
+      },
+      {
+        "name": "wing_left",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          52,
+          88,
+          1492,
+          940
+        ],
+        "destination": [
+          50,
+          135,
+          830,
+          625
+        ],
+        "pivot": [
+          810,
+          350
+        ],
+        "motion": -1.8
+      },
+      {
+        "name": "wing_right",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          176,
+          28,
+          1420,
+          1012
+        ],
+        "destination": [
+          1040,
+          245,
+          1480,
+          685
+        ],
+        "pivot": [
+          1100,
+          365
+        ],
+        "motion": 1.8
+      },
+      {
+        "name": "body",
+        "size": [
+          1536,
+          1024
+        ],
+        "source": [
+          0,
+          0,
+          1536,
+          1024
+        ],
+        "destination": [
+          0,
+          0,
+          1536,
+          1024
+        ],
+        "pivot": [
+          768,
+          921.6
+        ],
+        "motion": 0
+      }
+    ],
+    "mode": "breath",
+    "tapStrength": 3.888888888888889
+  }
+}

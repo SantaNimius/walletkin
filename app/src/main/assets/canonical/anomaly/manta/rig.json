@@ -1,0 +1,160 @@
+{
+  "name": "Celestial Manta",
+  "width": 1536,
+  "height": 1024,
+  "eye": [
+    290,
+    465,
+    610,
+    670
+  ],
+  "mode": "hover",
+  "blinkDestination": [
+    250,
+    210,
+    1050,
+    745
+  ],
+  "layers": [
+    {
+      "name": "tail",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        48,
+        64,
+        1496,
+        976
+      ],
+      "destination": [
+        860,
+        535,
+        1500,
+        990
+      ],
+      "pivot": [
+        890,
+        555
+      ],
+      "motion": 2.2,
+      "phase": 2
+    },
+    {
+      "name": "body",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "destination": [
+        250,
+        210,
+        1050,
+        745
+      ],
+      "pivot": [
+        600,
+        640
+      ],
+      "motion": 0,
+      "phase": 0
+    },
+    {
+      "name": "wing_left",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        112,
+        16,
+        1448,
+        1016
+      ],
+      "destination": [
+        10,
+        0,
+        560,
+        430
+      ],
+      "pivot": [
+        510,
+        385
+      ],
+      "motion": 1.4,
+      "phase": 0
+    },
+    {
+      "name": "wing_right",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        72,
+        16,
+        1480,
+        1016
+      ],
+      "destination": [
+        745,
+        15,
+        1515,
+        655
+      ],
+      "pivot": [
+        790,
+        540
+      ],
+      "motion": 1.4,
+      "phase": 0.4
+    }
+  ],
+  "blinkPatches": [
+    {
+      "name": "blink",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        125,
+        470,
+        260,
+        605
+      ],
+      "destination": [
+        375,
+        497,
+        443,
+        565
+      ]
+    },
+    {
+      "name": "blink",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        705,
+        510,
+        990,
+        645
+      ],
+      "destination": [
+        625,
+        497,
+        740,
+        586
+      ]
+    }
+  ]
+}

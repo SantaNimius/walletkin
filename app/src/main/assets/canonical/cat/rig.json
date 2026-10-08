@@ -1,0 +1,71 @@
+{
+  "name": "Glyphcat",
+  "width": 1240,
+  "height": 1268,
+  "eye": [
+    414,
+    263,
+    612,
+    355
+  ],
+  "mode": "breath",
+  "layers": [
+    {
+      "name": "tail",
+      "size": [
+        1536,
+        1024
+      ],
+      "source": [
+        64,
+        80,
+        1496,
+        976
+      ],
+      "destination": [
+        675,
+        680,
+        1230,
+        1185
+      ],
+      "pivot": [
+        770,
+        725
+      ],
+      "motion": 0,
+      "flex": {
+        "root": [
+          770,
+          725
+        ],
+        "hold": 180,
+        "reach": 500,
+        "amplitude": 9
+      }
+    },
+    {
+      "name": "body",
+      "size": [
+        1240,
+        1268
+      ],
+      "source": [
+        0,
+        0,
+        1240,
+        1268
+      ],
+      "destination": [
+        0,
+        0,
+        1240,
+        1268
+      ],
+      "pivot": [
+        620,
+        1100
+      ],
+      "motion": 0
+    }
+  ]
+}

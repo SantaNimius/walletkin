@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "expectedSpecies": 14,
+  "awaitingCanonicalList": false,
+  "entries": [
+    {
+      "id": "fox",
+      "name": "Astrafox",
+      "subtitle": "Cosmic · Curious",
+      "lore": "Astrafox is a cosmic fox with a curious nature. Its lean silhouette and star-marked fur belong to its Genesis appearance. Verified wallet activity can awaken additional traits; the Explorer archetype is not a claim about any wallet's unscanned transaction history.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "dragon",
+      "name": "Riftdrake",
+      "subtitle": "Mineral · Neon ink",
+      "lore": "Riftdrake carries dark faceted mineral scales threaded with turquoise and magenta veins. A narrow expressive head, two broad wings, four strong legs and one long flexible tail define its silhouette. Wallet memories and awakened traits are grounded in confirmed on-chain evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "golem",
+      "name": "Jadewarden",
+      "subtitle": "Basalt · Jade",
+      "lore": "A massive guardian formed from weathered basalt boulders, moss and luminous jade fissures. Its deliberate movements and narrow stone eyes belong to its appearance. Personal memories and awakened wallet traits require confirmed on-chain evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "wisp",
+      "name": "Lumenwisp",
+      "subtitle": "Pearl · Mint",
+      "lore": "An airborne spirit with a luminous core and flowing translucent trails. Its pearlescent shell and quiet pulse give it an ethereal presence. Personal memories and awakened traits are described from confirmed wallet evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "shark",
+      "name": "Abyssfin",
+      "subtitle": "Abyss · Graphite",
+      "lore": "A quiet marine predator with weathered graphite skin, a pale belly and thin turquoise gill lights. Its angular silhouette and deliberate swimming express its character. Personal memories and wallet traits are described separately from confirmed on-chain evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "plant",
+      "name": "Fernroot",
+      "subtitle": "Roots · Fern",
+      "lore": "A woodland creature woven from weathered roots, moss and fern fronds. Its split seed-shell face holds narrow amber eyes, while leafy branches move with a quiet rhythm. This botanical appearance belongs to its lineage; personal memories and wallet traits are described from confirmed evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "mech",
+      "name": "Byteforge",
+      "subtitle": "Iron · Ceramic",
+      "lore": "A compact mechanical creature built from worn dark metal, ceramic armor and exposed articulated joints. Its narrow sensor watches quietly while two manipulators move with precise intention. These mechanical features belong to its appearance; personal wallet memories and traits are described from confirmed evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "bird",
+      "name": "Foldwing",
+      "subtitle": "Paper · Midnight",
+      "lore": "A watchful raven formed from overlapping folds of midnight-blue and charcoal paper. Silver feather edges frame its broad wings, and a warm amber eye follows the world. This sculptural appearance belongs to its lineage; personal wallet memories and traits are described from confirmed evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "slime",
+      "name": "Chromagel",
+      "subtitle": "Glass · Amber",
+      "lore": "A flowing creature of colored glass with suspended bubbles and a warm inner core. Its pooled silhouette bends with a gentle pulse. Personal memories and wallet traits are described separately from confirmed evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "cosmic",
+      "name": "Orbitron",
+      "subtitle": "Orbit · Retro",
+      "lore": "A celestial core surrounded by geometric rings and orbiting fragments. Weathered teal, ochre and orange surfaces evoke a distant imagined future. Its appearance belongs to the lineage; wallet memories require confirmed evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "degen_ape",
+      "name": "Degen Kong",
+      "subtitle": "Street · Cyberpunk",
+      "lore": "A powerful ape in weathered cyberpunk clothing, with neon seams and a DEGEN patch. A small trading-candle motif expresses its irreverent character; it is an appearance detail, not a claim about wallet trades or profits.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "cat",
+      "name": "Glyphcat",
+      "subtitle": "Nouveau · Neon",
+      "lore": "A curious feline with a long graceful tail and flowing organic markings. Bright neon colors trace its Art Nouveau coat. Personal memories and awakened traits are described from confirmed wallet evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "lynx",
+      "name": "Prismlynx",
+      "subtitle": "Facet · Wild",
+      "lore": "A wild lynx shaped from large matte facets, with strong paws, tall ear tufts and a short tail. Its geometric silhouette gives it a distinct presence. Personal wallet memories and traits require confirmed evidence.",
+      "anomaly": false,
+      "forms": []
+    },
+    {
+      "id": "anomaly",
+      "name": "Anomaly",
+      "subtitle": "One legend · Five forms",
+      "lore": "A singular lineage with five vivid bodies: opal alchemy, celestial stained glass, psychedelic stencil, prismatic geometry and galactic enamel. This archive previews the accepted forms. Personal wallet traits and memories require confirmed on-chain evidence.",
+      "anomaly": true,
+      "forms": [
+        "Opal Dachshund",
+        "Celestial Manta",
+        "Psychedelic Octopus",
+        "Prismatic Fractal",
+        "Galactic Snail"
+      ]
+    }
+  ]
+}

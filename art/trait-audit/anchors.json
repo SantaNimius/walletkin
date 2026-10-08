@@ -1,0 +1,132 @@
+[
+  {
+    "id": "fox",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      251
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "dragon",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "golem",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "wisp",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "shark",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "plant",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "mech",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "bird",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "slime",
+    "anchorAlpha": [
+      251,
+      253,
+      252,
+      252
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "cosmic",
+    "anchorAlpha": [
+      253,
+      253,
+      252,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "degen_ape",
+    "anchorAlpha": [
+      253,
+      253,
+      254,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "cat",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  },
+  {
+    "id": "lynx",
+    "anchorAlpha": [
+      253,
+      253,
+      253,
+      253
+    ],
+    "note": "Illustrative placement preview with enlarged material traits; not Android screenshot. Glow and SRC_ATOP compositing are Android runtime effects. Android uses creature alpha compositing and Jupiter brightness-alpha ink."
+  }
+]

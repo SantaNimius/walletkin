@@ -1,0 +1,14 @@
+# Walletkin validation — 0.4.1
+- Android package app.chainling; versionCode 19.
+- APK SHA256: 6A2531C0991544BA9FEA2327A522741C8A18A5BCE95D3796BED3DB76BA31C68C
+- APK: 220.46 MiB.
+- Existing build validation: 55 Android tests; zero failures/errors.
+- Android lint: zero errors, 21 warnings.
+- Existing backend validation: seven tests, zero failures.
+- The user confirmed the golden path on Seeker and supplied the actual device recording. The edited demo lasts exactly 75 seconds with English burned-in captions; full decode validation passed.
+- Device recording confirms an actual app run, not an exhaustive performance benchmark or real payment test.
+- Organic raster materials cover all 13 normal species. Six visual gates; JUP staking is separate from Jupiter interaction.
+- Genesis v2 uses the canonical thirteen-species registry and six palettes. Local migration preserves memories and verified Seekerborn.
+- HTTPS commerce deployment and real mainnet payment acceptance remain pending. Store items are preview-only until prices are configured.
+- GitHub publication and external upload remain pending; a clean local repository and updated source archive are prepared.
+- No application behavior was changed during submission preparation; existing build checks are reported, not represented as newly rerun.

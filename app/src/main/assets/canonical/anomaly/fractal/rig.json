@@ -1,0 +1,139 @@
+{
+  "name": "Prismatic Fractal",
+  "width": 1218,
+  "height": 1292,
+  "eye": [
+    590,
+    180,
+    735,
+    340
+  ],
+  "mode": "hover",
+  "layers": [
+    {
+      "name": "fragments_left",
+      "size": [
+        1218,
+        1292
+      ],
+      "source": [
+        64,
+        120,
+        1168,
+        1136
+      ],
+      "destination": [
+        45,
+        260,
+        370,
+        640
+      ],
+      "pivot": [
+        210,
+        440
+      ],
+      "motion": 2,
+      "phase": 0
+    },
+    {
+      "name": "fragments_right",
+      "size": [
+        1301,
+        1209
+      ],
+      "source": [
+        128,
+        80,
+        1224,
+        1128
+      ],
+      "destination": [
+        875,
+        340,
+        1180,
+        720
+      ],
+      "pivot": [
+        1020,
+        525
+      ],
+      "motion": 2,
+      "phase": 1.2
+    },
+    {
+      "name": "fragments_top",
+      "size": [
+        1292,
+        1218
+      ],
+      "source": [
+        400,
+        112,
+        1048,
+        1096
+      ],
+      "destination": [
+        150,
+        15,
+        355,
+        255
+      ],
+      "pivot": [
+        255,
+        150
+      ],
+      "motion": 2,
+      "phase": 2.1
+    },
+    {
+      "name": "fragments_bottom",
+      "size": [
+        1217,
+        1293
+      ],
+      "source": [
+        328,
+        32,
+        984,
+        1272
+      ],
+      "destination": [
+        875,
+        835,
+        1105,
+        1250
+      ],
+      "pivot": [
+        985,
+        1050
+      ],
+      "motion": 2,
+      "phase": 3.0
+    },
+    {
+      "name": "body",
+      "size": [
+        1218,
+        1292
+      ],
+      "source": [
+        0,
+        0,
+        1218,
+        1292
+      ],
+      "destination": [
+        0,
+        0,
+        1218,
+        1292
+      ],
+      "pivot": [
+        610,
+        650
+      ],
+      "motion": 0,
+      "phase": 0
+    }
+  ]
+}

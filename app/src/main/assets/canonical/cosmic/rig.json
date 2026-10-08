@@ -1,0 +1,146 @@
+{
+  "name": "Orbitron",
+  "width": 1312,
+  "height": 1199,
+  "eye": [
+    650,
+    500,
+    850,
+    690
+  ],
+  "mode": "hover",
+  "blinkDestination": [
+    247,
+    162,
+    1066,
+    1012
+  ],
+  "layers": [
+    {
+      "name": "satellites",
+      "size": [
+        1312,
+        1199
+      ],
+      "source": [
+        0,
+        0,
+        1312,
+        1199
+      ],
+      "destination": [
+        0,
+        0,
+        1312,
+        1199
+      ],
+      "pivot": [
+        656,
+        600
+      ],
+      "motion": 2.3
+    },
+    {
+      "name": "ring_vertical",
+      "size": [
+        1024,
+        1536
+      ],
+      "source": [
+        288,
+        32,
+        888,
+        1496
+      ],
+      "destination": [
+        550,
+        24,
+        1010,
+        1150
+      ],
+      "pivot": [
+        780,
+        600
+      ],
+      "motion": 1.5
+    },
+    {
+      "name": "ring_horizontal",
+      "size": [
+        1774,
+        887
+      ],
+      "source": [
+        56,
+        144,
+        1728,
+        760
+      ],
+      "destination": [
+        96,
+        430,
+        1260,
+        835
+      ],
+      "pivot": [
+        660,
+        640
+      ],
+      "motion": -1.5
+    },
+    {
+      "name": "body",
+      "size": [
+        1312,
+        1199
+      ],
+      "source": [
+        0,
+        0,
+        1312,
+        1199
+      ],
+      "destination": [
+        200,
+        80,
+        1118.4,
+        1039.2
+      ],
+      "pivot": [
+        656,
+        600
+      ],
+      "motion": 0
+    },
+    {
+      "name": "ring_horizontal",
+      "size": [
+        1774,
+        887
+      ],
+      "source": [
+        56,
+        144,
+        1728,
+        760
+      ],
+      "destination": [
+        96,
+        430,
+        1260,
+        835
+      ],
+      "pivot": [
+        660,
+        640
+      ],
+      "motion": -1.5,
+      "clip": [
+        0,
+        670,
+        1312,
+        1199
+      ]
+    }
+  ]
+}
